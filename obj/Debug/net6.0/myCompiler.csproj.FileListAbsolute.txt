@@ -1,0 +1,30 @@
+F:\myCompiler\obj\Debug\net6.0\myCompiler.csproj.AssemblyReference.cache
+F:\myCompiler\obj\Debug\net6.0\myCompiler.GeneratedMSBuildEditorConfig.editorconfig
+F:\myCompiler\obj\Debug\net6.0\myCompiler.AssemblyInfoInputs.cache
+F:\myCompiler\obj\Debug\net6.0\myCompiler.AssemblyInfo.cs
+F:\myCompiler\obj\Debug\net6.0\myCompiler.csproj.CoreCompileInputs.cache
+F:\myCompiler\bin\Debug\net6.0\myCompiler.exe
+F:\myCompiler\bin\Debug\net6.0\myCompiler.deps.json
+F:\myCompiler\bin\Debug\net6.0\myCompiler.runtimeconfig.json
+F:\myCompiler\bin\Debug\net6.0\myCompiler.dll
+F:\myCompiler\bin\Debug\net6.0\myCompiler.pdb
+F:\myCompiler\obj\Debug\net6.0\myCompiler.dll
+F:\myCompiler\obj\Debug\net6.0\refint\myCompiler.dll
+F:\myCompiler\obj\Debug\net6.0\myCompiler.pdb
+F:\myCompiler\obj\Debug\net6.0\myCompiler.genruntimeconfig.cache
+F:\myCompiler\obj\Debug\net6.0\ref\myCompiler.dll
+F:\clone requests from github\Basic-Calculator-Compiler\bin\Debug\net6.0\myCompiler.exe
+F:\clone requests from github\Basic-Calculator-Compiler\bin\Debug\net6.0\myCompiler.deps.json
+F:\clone requests from github\Basic-Calculator-Compiler\bin\Debug\net6.0\myCompiler.runtimeconfig.json
+F:\clone requests from github\Basic-Calculator-Compiler\bin\Debug\net6.0\myCompiler.dll
+F:\clone requests from github\Basic-Calculator-Compiler\bin\Debug\net6.0\myCompiler.pdb
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.csproj.AssemblyReference.cache
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.GeneratedMSBuildEditorConfig.editorconfig
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.AssemblyInfoInputs.cache
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.AssemblyInfo.cs
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.csproj.CoreCompileInputs.cache
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.dll
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\refint\myCompiler.dll
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.pdb
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\myCompiler.genruntimeconfig.cache
+F:\clone requests from github\Basic-Calculator-Compiler\obj\Debug\net6.0\ref\myCompiler.dll
