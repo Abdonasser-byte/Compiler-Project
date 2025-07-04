@@ -42,7 +42,8 @@ namespace myCompiler.CodeAnalysis
                 {
                     _diagonastics.Add($"ERROR: the number {str} isn't valid Int32.");
                 }
-                return new SyntaxToken(SyntaxKind.NumberToken, _position, str, value);
+                // the token position should be the start of the number
+                return new SyntaxToken(SyntaxKind.NumberToken, start, str, value);
             }
 
             if (char.IsWhiteSpace(Current))
@@ -56,7 +57,8 @@ namespace myCompiler.CodeAnalysis
                 string str = _text.Substring(start, len);
 
                 //int.TryParse(str,out var Value);
-                return new SyntaxToken(SyntaxKind.WhiteSpaceToken, _position, str, null);
+                // use the start index for the whitespace token position as well
+                return new SyntaxToken(SyntaxKind.WhiteSpaceToken, start, str, null);
             }
 
             if (Current == '+')
